@@ -13,4 +13,11 @@ The [SDXL Workflow made by me](/workflows/Pony_Prompt_Testing-SDXL-Text2Img.json
 
 ## Prompt Testing
 
+### Art Styles
+
+- [Art](/art_style/art.md)
+
 ### Descriptive Adjectives
+
+- [Airy Qualities](/descriptive_adjectives/airy_qualities.md)
+- [Mystical](/descriptive_adjectives/mystical.md)
