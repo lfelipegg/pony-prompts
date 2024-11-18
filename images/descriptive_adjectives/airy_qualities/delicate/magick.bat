@@ -1,0 +1,1 @@
+magick 1.png -resize 600 -quality 83 -format jpg 1.jpg
